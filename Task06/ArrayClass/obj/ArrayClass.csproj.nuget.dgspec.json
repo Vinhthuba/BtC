@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quand\\source\\repos\\Task06\\ArrayClass\\ArrayClass.csproj": {}
+    "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\ArrayClass\\ArrayClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quand\\source\\repos\\Task06\\ArrayClass\\ArrayClass.csproj": {
+    "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\ArrayClass\\ArrayClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quand\\source\\repos\\Task06\\ArrayClass\\ArrayClass.csproj",
+        "projectUniqueName": "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\ArrayClass\\ArrayClass.csproj",
         "projectName": "ArrayClass",
-        "projectPath": "C:\\Users\\quand\\source\\repos\\Task06\\ArrayClass\\ArrayClass.csproj",
+        "projectPath": "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\ArrayClass\\ArrayClass.csproj",
         "packagesPath": "C:\\Users\\quand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quand\\source\\repos\\Task06\\ArrayClass\\obj\\",
+        "outputPath": "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\ArrayClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

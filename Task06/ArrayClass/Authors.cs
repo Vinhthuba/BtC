@@ -16,9 +16,11 @@
                 Console.Write("Enter the ID of author : ");
                 input = Console.ReadLine();
                 objAuthorID.SetValue(Convert.ToInt32(input), i);
+
                 Console.Write("Enter the name of author : ");
                 input = Console.ReadLine();
                 objAuthorNames.SetValue(input, i);
+
                 Console.Write("Enter the name of stage : ");
                 input = Console.ReadLine();
                 objState.SetValue(input, i);

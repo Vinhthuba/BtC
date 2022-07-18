@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quand\\source\\repos\\Task06\\Task06\\JumpStatements.csproj": {}
+    "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\Task06\\JumpStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quand\\source\\repos\\Task06\\Task06\\JumpStatements.csproj": {
+    "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\Task06\\JumpStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quand\\source\\repos\\Task06\\Task06\\JumpStatements.csproj",
+        "projectUniqueName": "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\Task06\\JumpStatements.csproj",
         "projectName": "JumpStatements",
-        "projectPath": "C:\\Users\\quand\\source\\repos\\Task06\\Task06\\JumpStatements.csproj",
+        "projectPath": "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\Task06\\JumpStatements.csproj",
         "packagesPath": "C:\\Users\\quand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quand\\source\\repos\\Task06\\Task06\\obj\\",
+        "outputPath": "C:\\Users\\quand\\source\\repos\\BtC\\Task06\\Task06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
