@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular-route.min.js"></script>
+    <link rel="stylesheet" href="themify-icons-font/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+    <title>CodeLean</title>
+<body>
+<div id="main">
+    <div id="header">
+        <ul id="nav">
+            <li><a href="#/">Home</a></li>
+            <li><a href="#/member">Member</a></li>
+            <li><a href="#/blog">Blog</a></li>
+            <li><a href="#/about">About</a></li>
+        </ul>
+    </div>
+
+    <div id="body" >
+        <!--Home-->
+        <script type="text/ng-template" id="pages/home.html">
+            <h1>Home CodeLean.vn</h1>
+            <h3>{{message}}</h3>
+        </script>
+        <!--Blog-->
+        <script type="text/ng-template" id="pages/blog.html">
+            <h1>Blog CodeLean.vn</h1>
+            <h3>{{message}}</h3>
+        </script>
+        <!--About-->
+        <script type="text/ng-template" id="pages/about.html">
+            <h1>About CodeLean.vn</h1>
+            <h3>{{message}}</h3>
+        </script>
+        <!--Member-->
+        <script type="text/ng-template" id="pages/member.html">
+            <h1>Member CodeLean.vn</h1>
+            <h3>{{message}}</h3>
+        </script>
+        <div ng-view></div>
+        <script src="app.js"></script>
+    </div>
+</div>
+</body>
+<footer>
+    <div id="footer">
+        <div id="heading-footer">
+            <div class="text-h-f">
+                <p>Get connected with us on social networks!</p>
+            </div>
+            <div class="icon-h-f">
+                <i class="ti-facebook"></i>
+                <i class="ti-twitter-alt"></i>
+                <i class="ti-google"></i>
+                <i class="ti-instagram"></i>
+                <i class="ti-linkedin"></i>
+            </div>
+        </div>
+        <div id="body-footer">
+            <div class="row">
+                <div class="w-25 text-white">
+                    <div class="title-f-t-b mb-8" >
+                        <p>company name</p>
+                        <div class="u-l"></div>
+                    </div>
+                    <div class="text-b-f">
+                        <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                    </div>
+                </div>
+                <div class="w-25 text-white">
+                    <div class="title-f-t-b mb-8" >
+                        <p>company name</p>
+                        <div class="u-l"></div>
+                    </div>
+                    <div class="text-b-f">
+                        <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                    </div>
+                </div>
+                <div class="w-25 text-white">
+                    <div class="title-f-t-b mb-8" >
+                        <p>company name</p>
+                        <div class="u-l"></div>
+                    </div>
+                    <div class="text-b-f">
+                        <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                    </div>
+                </div>
+                <div class="w-25 text-white">
+                    <div class="title-f-t-b mb-8" >
+                        <p>company name</p>
+                        <div class="u-l"></div>
+                    </div>
+                    <div class="text-b-f">
+                        <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</html>
